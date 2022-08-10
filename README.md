@@ -7,7 +7,7 @@ GFG fuel consumption prediction regression model
 <p><em>While working with the dataset, the following conclusions were made:
 <ul>
     <li>There are missing calues only in the 'Horsepower' column in the form of '?'</li>
-    <li>Volkswagen (vw) makes cars with most miles/gallon</li>
+    <li>VW makes cars with most miles/gallon</li>
     <li>MPG is most related to DIsplacement</li>
     <li>Earlier the car is made, lesser the MPG</li>
     <li>Car with Origin 3 have most MPG</li>
